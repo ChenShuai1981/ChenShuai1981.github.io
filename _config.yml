@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: ChenShuai1981/ChenShuai1981.github.io
 github_url: https://github.com/ChenShuai1981
-cnblog_url: http://www.cnblogs.com/ChenShuai1981
-url: http://www.ChenShuai1981.com
-enforce_ssl: ChenShuai1981.com
+##cnblog_url: http://www.cnblogs.com/ChenShuai1981
+##url: http://www.ChenShuai1981.com
+##enforce_ssl: ChenShuai1981.com
 
 ## Gem
 plugins:
